@@ -13,6 +13,8 @@
 
 *[Acceso al proyecto](#acceso-proyecto)
 
+```npm install react````
+
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
 *[Personas Contribuyentes](#personas-contribuyentes)
