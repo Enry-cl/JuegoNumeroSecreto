@@ -13,7 +13,7 @@
 
 *[Acceso al proyecto](#acceso-proyecto)
 
-```npm install react````
+````npm install react````
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
