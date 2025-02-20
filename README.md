@@ -25,4 +25,4 @@
 
 *[Conclusión](#conclusión)
 
-prueba
+Sistema de Registro
